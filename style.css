@@ -293,7 +293,7 @@ hr{
         width: 100%;
         height: 85%
     }
-    
+
     .links img{
         display: none;
     }
@@ -307,6 +307,7 @@ hr{
         padding: 0px;
         font-weight: 400;
         font-size: 18px;
+        background-color: #e5e4e4;
     }
 
     .menu img{
